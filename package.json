@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "name": "bankist-app",
+  "description": "A modern bankist app with great design and animation.",
+  "version": "1.0.0",
+  "default": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Abdul Hamid",
+  "license": "ISC"
+}

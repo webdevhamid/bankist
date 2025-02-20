@@ -1,6 +1,6 @@
-# Static Bankist Application
+# Bankist Application
 
-A modern bankist app with great design and animation.
+A modern bankist app with great design and functionality.
 
 ### User 1
   - USER_NAME: ah

@@ -1,6 +1,6 @@
 # Bankist Application
 
-A modern bankist app with great design and functionality.
+A modern bankist app with modern design and functionality.
 
 ### User 1
   - USER_NAME: ah
